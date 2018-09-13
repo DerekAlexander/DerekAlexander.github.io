@@ -10,4 +10,4 @@
 ---
 ### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
   
-###  a semester long team based project making a[Arkanoid clone](https://github.com/DerekAlexander/C-PlusPlus/blob/master/BreakOut.cpp)
+###  a semester long team based project making a [Arkanoid clone](https://github.com/DerekAlexander/C-PlusPlus/blob/master/BreakOut.cpp)
