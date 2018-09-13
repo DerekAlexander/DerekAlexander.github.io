@@ -2,12 +2,12 @@
 
 # Here is some of my course work by language
 ---
-  ### [Java](https://github.com/DerekAlexander/Java)
+### [Java](https://github.com/DerekAlexander/Java)
   
-  ### [C++](https://github.com/DerekAlexander/C-PlusPlus)  
+### [C++](https://github.com/DerekAlexander/C-PlusPlus)  
   
 # Portfolio
 ---
-  ### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
+### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
   
-  ### [Breakout game](https://github.com/DerekAlexander/C-PlusPlus/blob/master/BreakOut.cpp)
+###  a semester long team based project making a[Arkanoid clone](https://github.com/DerekAlexander/C-PlusPlus/blob/master/BreakOut.cpp)
