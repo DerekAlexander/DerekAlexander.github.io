@@ -1,6 +1,6 @@
 # about me
 
-# Here is some of my course work by language
+# Here is some of my course work
 ---
 ### [Java](https://github.com/DerekAlexander/Java)
   
