@@ -6,7 +6,11 @@ I like trying new things like: [ring making](https://github.com/DerekAlexander/D
 ---
 ### [Java](https://github.com/DerekAlexander/Java)
   
-### [C++](https://github.com/DerekAlexander/C-PlusPlus)  
+### [C++](https://github.com/DerekAlexander/C-PlusPlus)
+  
+### [Game Design](https://github.com/DerekAlexander/Game-design-classes)
+  
+### [Game Testing](https://github.com/DerekAlexander/GameTesting-2338)
   
 # Portfolio
 ---
