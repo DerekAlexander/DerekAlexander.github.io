@@ -15,7 +15,7 @@ I like trying new things like: [ring making](https://github.com/DerekAlexander/D
   
 # Portfolio
 ---
-### Unity capstone class game [Isle of Magmies](https://github.com/DerekAlexander/Unity-Games/tree/master/GameSim2019)
+### Unity capstone class game [Isle of Magmies](https://github.com/DerekAlexander/Unity-Games/blob/master/GameSim2019/gamesim.md)
 ### [Unity Games](https://github.com/DerekAlexander/Unity-Games)
 
 ### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
