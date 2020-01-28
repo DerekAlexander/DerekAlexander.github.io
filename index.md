@@ -1,6 +1,17 @@
 # About me
 ---
-I like trying new things like: [ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md), [computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md), 3d printing and [wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md). I will probably dabble into many more things later on. I graduated at NWV college getting a degree in Game Design Programming. My goal is to develop games at a small, tight knit company.  
+Hi, my name is Derek Alexander I am a programming tutor a NorthWest vista alamo college. I have a degree in Game design with a focus on programming. I have experience with C#, C++, Java and python. If you want to see more there is a link to my resume at the bottom of this page. 
+Some info about my me: I like trying new things like: [ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md), [computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md), 3d printing and [wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md). I will probably dabble into many more things later on. My goal is to develop games at a small, tight knit company.
+
+# Portfolio
+---
+### Unity capstone class game [Isle of Magmies](https://github.com/DerekAlexander/Unity-Games/blob/master/GameSim2019/gamesim.md)
+### [Unity Games](https://github.com/DerekAlexander/Unity-Games)
+
+### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
+  
+###  a semester long team based project making a [Arkanoid clone](https://github.com/DerekAlexander/C-PlusPlus/blob/master/BreakOut.cpp)
+
   
 # Here is some of my course work
 ---
@@ -13,16 +24,8 @@ I like trying new things like: [ring making](https://github.com/DerekAlexander/D
   
 ### [Game Testing](https://github.com/DerekAlexander/GameTesting-2338)
   
-# Portfolio
----
-### Unity capstone class game [Isle of Magmies](https://github.com/DerekAlexander/Unity-Games/blob/master/GameSim2019/gamesim.md)
-### [Unity Games](https://github.com/DerekAlexander/Unity-Games)
-
-### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
-  
-###  a semester long team based project making a [Arkanoid clone](https://github.com/DerekAlexander/C-PlusPlus/blob/master/BreakOut.cpp)
-
 # Contact info
 ---
-Please contact me through my school email derekw.alexander@gmail.com
-This email is fowarded to my personal email as well so I will get back to you!
+### [resume](https://github.com/DerekAlexander/DerekAlexander.github.io/DAlexanderResume.pdf)
+### [Linked-In](https://www.linkedin.com/in/derek-alexander-475856181/)
+### Email: derekw.alexander@gmail.com
