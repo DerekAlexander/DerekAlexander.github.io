@@ -26,6 +26,6 @@ Some info about my me: I like trying new things like: [ring making](https://gith
   
 # Contact info
 ---
-### [resume](https://github.com/DerekAlexander/DerekAlexander.github.io/DAlexanderResume.pdf)
+### [resume](DAlexanderResume.pdf)
 ### [Linked-In](https://www.linkedin.com/in/derek-alexander-475856181/)
 ### Email: derekw.alexander@gmail.com
