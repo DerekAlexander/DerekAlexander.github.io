@@ -12,7 +12,7 @@ Some info about my me: I like trying new things like: [ring making](https://gith
 
 #### [Mocho Fix!](https://globalgamejam.org/2020/games/mocho-fix-9) Submitted to the global game jam 2019 a 48 hour game jam. We recieved third place at our local site. 
 
-#### [Keep 'em Seperated](https://dereka.itch.io/keep-em-separated) Submited to quartine game jam from the Greater Gaming society of San antonio. We recieved second place in this week long game jam.
+#### [Keep 'em Seperated](https://dereka.itch.io/keep-em-separated) Submitted to quartine game jam from the Greater Gaming society of San antonio. We recieved second place in this week long game jam.
 
 ### [Windows draw Rectangles](https://github.com/DerekAlexander/C-PlusPlus/tree/master/Rectangles)
   
