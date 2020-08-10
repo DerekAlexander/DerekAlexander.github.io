@@ -1,7 +1,10 @@
 # About me
 ---
-Hi, my name is Derek Alexander I am a programming tutor at NorthWest vista alamo college. I have a degree in Game design with a focus on programming. I have experience with C#, C++, Java and python. If you want to see more there is a link to my resume at the bottom of this page. 
-Some info about my me: I participate in game jams regularly and I learning new skills like: [ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md), [computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md), 3d printing and [wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md). I will probably dabble into many more things later on. My goal is to develop games at a small, tight knit company.
+### Hi, my name is Derek Alexander I am a programming tutor at NorthWest vista alamo college. I have a degree in Game design with a focus on programming. I have experience with C#, C++, Java and python. If you want to see more there is a link to my resume at the bottom of this page. 
+### Some info about my me: I participate in game jams regularly and I learning new skills like: [ring making]
+### (https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md), [computer building]
+### (https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md), 3d printing and [wood working]
+### (https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md). I will probably dabble into many more things later on. My goal is to develop games at a small, tight knit company.
 
 # Portfolio
 ---
