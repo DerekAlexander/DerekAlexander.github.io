@@ -49,11 +49,8 @@ For the United States Air Force we created a series of scenarios to teach their 
 
 --- 
 # Personal Projects
-<details>
-<summary>Personal Projects </summary>
-<br>
 
-## [global game jam 2019: Mocho Fix!](https://globalgamejam.org/2020/games/mocho-fix-9) 
+## [global game jam 2019: Mocho Fix!](https://globalgamejam.org/2020/games/mocho-fix-9)
 Mocho Fix! was my first game jam game I ever did. It was with 2 other artist over the span of 48 hours. The game is a 2D platformer for mobile in which the main the player follows and plays as the main character Mocho who runs a business where he fixes peoples strange problems, or tries to fix the problem. The game was submitted to the global game jam 2019. We recieved third place at our local site.
 #### tech used and systems made:
 * Dialog System
