@@ -88,6 +88,6 @@ https://vimeo.com/871625712
 
 # Contact info
 ---
-### [resume](DAlexanderResume.pdf)
+### [resume](Derek_Alexander_Resume.pdf)
 ### [Linked-In](https://www.linkedin.com/in/derek-alexander-475856181/)
 ### Email: derekw.alexander@gmail.com
