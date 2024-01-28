@@ -6,6 +6,16 @@
 
 I like learning new skills like: 
 
+<details>
+<summary>Example</summary>
+This is a dropdown with text!
+  
+[ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
+
+
+</details>
+
+
 [ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
 
 [computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md)
