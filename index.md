@@ -17,6 +17,7 @@
   [wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md)
   
   I will probably dabble into many more things later on. 
+  
 </details>
 
 # Portfolio
