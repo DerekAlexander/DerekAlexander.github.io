@@ -3,26 +3,6 @@
 ### Hi, my name is Derek Alexander I am a VR software developer at XALTER. I have experience with Unity Engine, Unreal, C#, C++ and Java. If you want to see more there is a link to my resume at the bottom of this page. 
 
 ### My goal is to develop games at a small company where I can make something I can enjoy.
-
-I like learning new skills like: 
-
-<details>
-<summary>Example</summary>
-This is a dropdown with text!
-  
-[ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
-
-
-</details>
-
-
-[ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
-
-[computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md)
-
-[wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md)
-
-I will probably dabble into many more things later on. 
   
 # Portfolio
 ---
@@ -54,10 +34,6 @@ For the United States Air Force we created a series of scenarios to teach their 
 --- 
 # Personal Projects
 
-<details>
-<summary>Personal Projects </summary>
-<br>
-
 ## [global game jam 2019: Mocho Fix!](https://globalgamejam.org/2020/games/mocho-fix-9)
 Mocho Fix! was my first game jam game I ever did. It was with 2 other artist over the span of 48 hours. The game is a 2D platformer for mobile in which the main the player follows and plays as the main character Mocho who runs a business where he fixes peoples strange problems, or tries to fix the problem. The game was submitted to the global game jam 2019. We recieved third place at our local site.
 #### tech used and systems made:
@@ -78,14 +54,8 @@ Keep 'em Seperated was a fully remote game jam I did with another programmer for
 * Level design
 * Light Weight Rendering Pipeline unity package
 
-</details>
-
 # School Projects
 
-<details>
-<summary>School Projects </summary>
-<br>
-  
 ## [Isle of Magmies](https://github.com/DerekAlexander/Unity-Games/blob/master/GameSim2019/gamesim.md)
 This project was from my final semester course in my degree for Game programming. In a team of 14 we designed and created a game in unity over the course of one semester. The team was made up of all the game design degrees at the college: artist, 3d modeling, production, audio, and programming. The game was a creature rasing game inspired by the Sonic's series chao care system. The player could play with, feed, evolve, and compete with the different creatures they raised. in this project I was one of two programmers on the team. While working on the AI and other core systems I also was responsible for the handling: shaders and overall graphical fideilty of the game, day / night cycle, import and implementation of artists assets, and competition system.
 
@@ -109,8 +79,6 @@ Arkanoid clone was the first big project I had ever done. In a team of four prog
  * ball physics system
  * text based level design
  * Audio system using FMod
-
-</details>
 
 # Contact info
 ### [resume](Derek_Alexander_Resume.pdf)
