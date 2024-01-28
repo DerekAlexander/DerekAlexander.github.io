@@ -27,16 +27,21 @@ Targa Resources asked us to create a VR simulation of their prover 7 station. Th
 ## 210 metaversity app
 This app was designed for the city of San Antonio, Texas to bring in tourism. The app was developed to be played on web for both pc and mobile devices. The app was a small enviroment reminiscent of the city of San Antonio that had videos from local celebrities and interactions for tourist to get excited to visit San Antonio for. Some of the unique system of this project were: loading / opening youtube videos, playing music / linking to spotify, displaying PDFs. I was one of two working on this project.
 
+https://210plaza.com/
+
 ## Metaversity VR
 This was a year long project for Oklahoma state University Insitute of Technology. For OSUIT we created a hub world for students and teachers to meet up and play through different learning modules we previously created. Parts of this project I was responsible for were: loading previous modules through Addressables, voice chat functionality, Avatar system and UI.
+
 https://vimeo.com/819549307
 
 ## Engine VR
 The goal of this project was to teach students of OSUIT how to disassemble a cummings disel engine. I was project lead for this module over the 3 months of its timeline.
+
 https://vimeo.com/768739035
 
 ## Electrical VR
 This module for OSUIT was to recreate their insturmentation training for their intro students. Some of the requirements for this project were: Creating a semi realistic eletrical system, Implementing a troubleshooting section and manipulating a spline asset to work with our needs. 
+
 https://vimeo.com/871625712
 
 ## Oklahoma Dept of Commerce touch screen app
@@ -48,7 +53,7 @@ This was the first module for OSUIT that EPIC Games awarded them a grant to crea
 ## USAF Osprey VR
 For the United States Air Force we created a series of scenarios to teach their techs how to remove the tire off an Osprey VTOL safely following their instrutional manuals. I created the project over the course of few months. This was also the first project I worked on and being only the second project for the studio some of the core systems like: Grab and rotate tools, Object snapping and Guiding arrows were built in this project. 
 
-## Personal Projects
+# Personal Projects
 <details>
   <summary> Personal Projects </summary>
   <br>
@@ -74,7 +79,7 @@ For the United States Air Force we created a series of scenarios to teach their 
   
 </details>
 
-## School Projects
+# School Projects
 <details>
 <summary> School Projects </summary>
 <br>
