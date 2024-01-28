@@ -4,20 +4,16 @@
 
 ### My goal is to develop games at a small company where I can make something I can enjoy.
 
-<details><summary> Hobbies- </summary>
-  
-  I like learning new skills like: 
-  
-  [ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
-  
-  [computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md)
-  
-  [wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md)
-  
-  I will probably dabble into many more things later on. 
-  
-</details>
+I like learning new skills like: 
 
+[ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
+
+[computer building](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/computerBuilding.md)
+
+[wood working](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/woodWorking.md)
+
+I will probably dabble into many more things later on. 
+  
 # Portfolio
 ---
 
