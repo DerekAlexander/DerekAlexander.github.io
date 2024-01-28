@@ -4,9 +4,7 @@
 
 ### My goal is to develop games at a small company where I can make something I can enjoy.
 
-<details>
-  <Summary> Hobbies </Summary>
-  <br>
+<details><summary> Hobbies </summary>
   
   I like learning new skills like: 
   
