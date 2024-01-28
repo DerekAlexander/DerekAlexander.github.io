@@ -7,6 +7,7 @@
 <details>
   <Summary> Hobbies </Summary>
   <br>
+  
   I like learning new skills like: 
   
   [ring making](https://github.com/DerekAlexander/DerekAlexander.github.io/blob/master/RingMaking.md)
