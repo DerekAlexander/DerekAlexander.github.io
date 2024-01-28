@@ -24,25 +24,17 @@
 ## Targa Meter Prover VR
 Targa Resources asked us to create a VR simulation of their prover 7 station. The app simulated all the valves and gas flow dynamics of the actual station. Targa's purpose of this app was to train their employees on goood practices and dangers of having their gases mix in a safe and cost efficient VR training. I was one of three who created this project.
 
-## 210 metaversity app
+## [210 metaversity app](https://210plaza.com/)
 This app was designed for the city of San Antonio, Texas to bring in tourism. The app was developed to be played on web for both pc and mobile devices. The app was a small enviroment reminiscent of the city of San Antonio that had videos from local celebrities and interactions for tourist to get excited to visit San Antonio for. Some of the unique system of this project were: loading / opening youtube videos, playing music / linking to spotify, displaying PDFs. I was one of two working on this project.
 
-https://210plaza.com/
-
-## Metaversity VR
+## [Metaversity VR](https://vimeo.com/819549307)
 This was a year long project for Oklahoma state University Insitute of Technology. For OSUIT we created a hub world for students and teachers to meet up and play through different learning modules we previously created. Parts of this project I was responsible for were: loading previous modules through Addressables, voice chat functionality, Avatar system and UI.
 
-https://vimeo.com/819549307
-
-## Engine VR
+## [Engine VR](https://vimeo.com/768739035)
 The goal of this project was to teach students of OSUIT how to disassemble a cummings disel engine. I was project lead for this module over the 3 months of its timeline.
 
-https://vimeo.com/768739035
-
-## Electrical VR
+## [Electrical VR](https://vimeo.com/871625712)
 This module for OSUIT was to recreate their insturmentation training for their intro students. Some of the requirements for this project were: Creating a semi realistic eletrical system, Implementing a troubleshooting section and manipulating a spline asset to work with our needs. 
-
-https://vimeo.com/871625712
 
 ## Oklahoma Dept of Commerce touch screen app
 This project was an interactive map of Oklahoma where all the information is loaded through excel and google drive. Any number of videos, images, pdfs or POIs could be designed and loaded without rebuilding the app. I was one of two developers building this app over the course of 4 months.
